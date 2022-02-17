@@ -1,0 +1,11 @@
+GITHUB:
+
+git init: initializing git 
+git add: adding a file to git
+git status: see if there is something to commit
+git remote add origin ssh path: where the files and changes are to be pushed to
+git push -u ssh path: pushes the commit to the github
+git branch: tells which branch you are on 
+git checkout -b name: adds a new branch, and switch between branches
+git merge: merging branches
+gi diff name of branch: 
