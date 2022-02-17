@@ -11,3 +11,6 @@ git merge: merging branches
 git diff name of branch: see the changes between two branches
 git pull: downloads the changes from the github repo
 git branch -d branch name: to delete a branch
+git reset HEAD: resets changes to the last commit
+git reset commit message: unstages everything after that commit message
+forking: copying others repos on github while cloning goes local to your computer
