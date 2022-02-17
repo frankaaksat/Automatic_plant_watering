@@ -8,4 +8,6 @@ git push -u ssh path: pushes the commit to the github
 git branch: tells which branch you are on 
 git checkout -b name: adds a new branch, and switch between branches
 git merge: merging branches
-gi diff name of branch: 
+git diff name of branch: see the changes between two branches
+git pull: downloads the changes from the github repo
+git branch -d branch name: to delete a branch
