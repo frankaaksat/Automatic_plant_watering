@@ -1,0 +1,15 @@
+GPIO wiring 
+
+Setup = Board
+
+GPIO 1 --> Switch_VCC
+GPIO 3 --> IN
+GPIO 6 --> GND
+GPIO 9 --> (Device) negative terminal
+GPIO 17 --> Switch, middle (GND)
+
+
+
+
+
+
