@@ -8,6 +8,7 @@ GPIO 6 --> GND
 GPIO 9 --> (Device) negative terminal
 GPIO 17 --> Switch, middle (GND)
 
+Switch --> (Device) positive terminal
 
 
 
